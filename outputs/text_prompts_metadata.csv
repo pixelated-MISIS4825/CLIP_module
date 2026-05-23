@@ -1,0 +1,26 @@
+class_id,class_name,prompt,prompt_template
+0,gun,a baggage x-ray image of a gun,a baggage x-ray image of a {}
+0,gun,an x-ray crop containing a gun,an x-ray crop containing a {}
+0,gun,a prohibited item: gun,a prohibited item: {}
+0,gun,a security x-ray image showing a gun,a security x-ray image showing a {}
+0,gun,a cropped x-ray baggage image of a gun,a cropped x-ray baggage image of a {}
+1,knife,a baggage x-ray image of a knife,a baggage x-ray image of a {}
+1,knife,an x-ray crop containing a knife,an x-ray crop containing a {}
+1,knife,a prohibited item: knife,a prohibited item: {}
+1,knife,a security x-ray image showing a knife,a security x-ray image showing a {}
+1,knife,a cropped x-ray baggage image of a knife,a cropped x-ray baggage image of a {}
+2,pliers,a baggage x-ray image of a pliers,a baggage x-ray image of a {}
+2,pliers,an x-ray crop containing a pliers,an x-ray crop containing a {}
+2,pliers,a prohibited item: pliers,a prohibited item: {}
+2,pliers,a security x-ray image showing a pliers,a security x-ray image showing a {}
+2,pliers,a cropped x-ray baggage image of a pliers,a cropped x-ray baggage image of a {}
+3,scissors,a baggage x-ray image of a scissors,a baggage x-ray image of a {}
+3,scissors,an x-ray crop containing a scissors,an x-ray crop containing a {}
+3,scissors,a prohibited item: scissors,a prohibited item: {}
+3,scissors,a security x-ray image showing a scissors,a security x-ray image showing a {}
+3,scissors,a cropped x-ray baggage image of a scissors,a cropped x-ray baggage image of a {}
+4,wrench,a baggage x-ray image of a wrench,a baggage x-ray image of a {}
+4,wrench,an x-ray crop containing a wrench,an x-ray crop containing a {}
+4,wrench,a prohibited item: wrench,a prohibited item: {}
+4,wrench,a security x-ray image showing a wrench,a security x-ray image showing a {}
+4,wrench,a cropped x-ray baggage image of a wrench,a cropped x-ray baggage image of a {}
